@@ -1,0 +1,8 @@
+.vscode
+
+tmp
+.env
+
+*.json
+*.csv
+*.zip
